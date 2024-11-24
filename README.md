@@ -15,5 +15,6 @@ When you are ready to commit you code, make sure you have:
 3. pushed it
 
 *Then, you are done!*
+The purpose of this website is to provide sukkah options for sale. The website also provides a link to the Home Depot website for last-minute desperation.
 
 
