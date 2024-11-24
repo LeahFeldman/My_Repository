@@ -1,0 +1,47 @@
+h1{
+    color: rgb(189, 114, 22);
+}
+h2{
+    color:hsla(32, 94%, 25%, 0.966);
+}
+h3{
+    color:rgb(1, 133, 45);
+}
+h1, p{
+    font-style: italic;
+}
+p{
+    font-size:larger;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ul{
+    font-size:larger;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:rgba(120, 168, 120, 0.695);
+    background-blend-mode:color-burn;
+    border-style:double;
+    padding:10px;
+}
+
+.myClass{
+    background-color:antiquewhite;
+}
+.myClass1{
+    background-color:rgba(167, 122, 91, 0.603);
+}
+.myClass2{
+    background-color:rgba(120, 168, 120, 0.695);
+}
+
+p:hover{
+    background-color:rgb(242, 189, 201);
+    color:hotpink;
+    cursor: pointer;
+    border: double;
+}
+h4{
+    font-size:larger;
+}
+div{
+    text-align: center;
+}
