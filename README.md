@@ -22,5 +22,3 @@ This is the change in the main code. It will be conflicted with other code in an
 This is the new change.
 
 There is the first commit.
-This is the second commit.
-And here goes the third.
