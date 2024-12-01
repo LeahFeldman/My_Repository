@@ -17,5 +17,5 @@ When you are ready to commit you code, make sure you have:
 *Then, you are done!*
 
 This is the line that will cause conflict.
-
+Why is this not causing conflict?
 
