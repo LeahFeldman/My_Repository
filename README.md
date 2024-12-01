@@ -16,4 +16,4 @@ When you are ready to commit you code, make sure you have:
 
 *Then, you are done!*
 
-
+This is the change in the main code. It will be conflicted with other code in another branch.
