@@ -17,3 +17,11 @@ When you are ready to commit you code, make sure you have:
 *Then, you are done!*
 
 This is the change in the main code. It will be conflicted with other code in another branch.
+This is the new change.
+This is the line that will cause conflict.
+Why is this not causing conflict?
+
+
+There is the first commit.
+This is the second commit.
+And here goes the third.
