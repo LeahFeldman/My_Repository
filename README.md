@@ -18,4 +18,5 @@ When you are ready to commit you code, make sure you have:
 
 This is the line that will cause conflict.
 Why is this not causing conflict?
-
+This is the change in the main code. It will be conflicted with other code in another branch.
+This is the new change.
