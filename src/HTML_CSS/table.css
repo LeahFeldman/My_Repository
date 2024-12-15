@@ -1,0 +1,13 @@
+table {
+    border: solid 1pt black;
+    border-collapse: collapse;
+}
+td{
+    border: double 2pt palevioletred;
+    padding: 10pt;
+}
+th{
+    border: solid 3pt rgb(255, 255, 178);
+    padding: 7pt;
+    color: palevioletred;
+}
